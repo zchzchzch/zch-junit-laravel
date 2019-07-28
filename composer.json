@@ -1,0 +1,17 @@
+{
+    "name": "zch\/zch-junit-laravel",
+    "description": "zch's first test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zenghuahuahua",
+            "email": "240574253@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zch\\ZchJunitLaravel\\": "src"
+        }
+    }
+}
